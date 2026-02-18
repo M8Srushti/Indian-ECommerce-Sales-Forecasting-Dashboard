@@ -1,0 +1,7 @@
+# Ignore temporary files and large backups
+*.pbix.backup
+*.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
